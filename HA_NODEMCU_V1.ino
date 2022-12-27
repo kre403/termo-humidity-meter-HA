@@ -2,7 +2,6 @@
 #include <ArduinoHA.h>
 #include <Wire.h>
 #include <SparkFunHTU21D.h>
-#include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
 
